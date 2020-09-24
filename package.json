@@ -1,0 +1,23 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "Mi primer API Rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WendyPaz/API_Rest.git"
+  },
+  "author": "Wendy Paz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WendyPaz/API_Rest/issues"
+  },
+  "homepage": "https://github.com/WendyPaz/API_Rest#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
